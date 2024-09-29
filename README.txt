@@ -1,4 +1,4 @@
-# Mobile Device Usage Analysis with Self-Organizing Maps
+# Mobile Device Usage Analysis with Self-Organizing Maps DIGITAL ASSIGNMENT-2 BIG DATA ANALYTICS -JANAKI 22MIS1159
 
 ## About the Dataset
 This dataset provides a comprehensive analysis of mobile device usage patterns and user behavior classification. It contains 700 samples of user data, including metrics such as app usage time, screen-on time, battery drain, and data consumption. Each entry is categorized into one of five user behavior classes, ranging from light to extreme usage.
@@ -44,6 +44,14 @@ python som_analysis.py
 #Hardware Requirements
 Any machine capable of running Python 3.x.
 Minimum of 4GB RAM is recommended for efficient execution.
+
+#Software Requirements
+Python 3.x: The programming language used for implementing the analysis.
+Libraries:
+NumPy: A library for numerical operations and handling arrays.
+Pandas: A library for data manipulation and analysis, particularly with data frames.
+Matplotlib: A plotting library for creating visualizations.
+MiniSom: A library specifically for creating and training Self-Organizing Maps.
 
 #Author
 Janaki Hari Kumar 22MIS1159
